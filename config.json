@@ -1,0 +1,7 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "clientId": "YOUR_BOT_CLIENR_ID",
+  "guildId": "YOUR_DISCORD_SERVER_GUILD_ID",
+  "botName": "YOUR_BOT_NAME",
+  "embedColor": "YOUR_EMBED_COLOR"
+}
